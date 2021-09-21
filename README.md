@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Pagina
 
 # Integrantes
